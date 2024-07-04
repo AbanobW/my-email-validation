@@ -1,0 +1,16 @@
+{
+  "name": "my-email-validation",
+  "version": "1.0.0",
+  "description": "my email validation to check email",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "email",
+    "validation",
+    "validator"
+  ],
+  "author": "abanob wagdi",
+  "license": "ISC"
+}
